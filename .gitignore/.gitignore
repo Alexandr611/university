@@ -1,0 +1,8 @@
+.settings
+test-output/
+.classpath
+.project
+bin/
+.metadata/
+.recommenders/
+Servers/
