@@ -1,0 +1,56 @@
+body, html {
+	min-height: 500px;
+}
+
+table, form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 0;
+}
+ td, tr, th {
+	border: 1px solid #E8F2FE;
+	padding: 7px;
+}
+
+table.view tr:nth-child(2n) {
+	background-color: #E8F2FE;
+}
+
+#footer {
+	paddint: 5px 0;
+	width: 100%;
+	text-align: center;
+	position: fixed;
+	bottom: 0 !important;
+	background-color: #D0DFEF !important;
+}
+a.create,input[type=submit]{
+	background-color: transparent!important;
+	position: relative;
+	font-weight: 300;
+	padding: 4px 8px;
+	color: #428BCA;
+	border: 1px solid #428BCA;
+	border-radius: 5px;
+	transition: .25s ease-out;
+}
+.glyphicon-trash{
+	color: #CA513B;
+	margin-left: 3px;
+}
+.glyphicon-cog{
+	color: #333;
+}
+body p{
+	text-align: center;
+}
+a.create:hover,input[type=submit]:hover{
+	text-decoration: none;
+	color: #fff;
+	background-color: #428BCA!important;
+}
+#footer p {
+	margin: 3px;
+	vertical-align: center;
+}
