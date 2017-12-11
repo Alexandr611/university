@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Company>
+    <employees>
+        <email>IVasovsk@gmail.com</email>
+        <firstName>Mike</firstName>
+        <id>0</id>
+        <lastName>Ivasovsky</lastName>
+        <phoneNumber>+380952274136</phoneNumber>
+        <salary>1200.0</salary>
+    </employees>
+    <employees>
+        <email>KKirili@gmail.com</email>
+        <firstName>Kiril</firstName>
+        <id>0</id>
+        <lastName>Kirilich</lastName>
+        <phoneNumber>+380993755999</phoneNumber>
+        <salary>2000.0</salary>
+    </employees>
+    <employees>
+        <email>alexandr@gmail.com</email>
+        <firstName>Alex</firstName>
+        <id>0</id>
+        <lastName>Malinovsky</lastName>
+        <phoneNumber>+380951474136</phoneNumber>
+        <salary>800.0</salary>
+    </employees>
+    <employees>
+        <email>IPastula@gmail.com</email>
+        <firstName>IIvan</firstName>
+        <id>0</id>
+        <lastName>PastulaPastulaPastula</lastName>
+        <phoneNumber>+380664474331</phoneNumber>
+        <salary>800.0</salary>
+    </employees>
+    <id>0</id>
+    <name>WebDev</name>
+</Company>
