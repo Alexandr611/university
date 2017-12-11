@@ -1,0 +1,32 @@
+{
+  "name" : "WebDev",
+  "employees" : [ {
+    "id" : 0,
+    "firstName" : "Mike",
+    "lastName" : "Ivasovsky",
+    "email" : "IVasovsk@gmail.com",
+    "salary" : 1200.0,
+    "phoneNumber" : "+380952274136"
+  }, {
+    "id" : 0,
+    "firstName" : "Kiril",
+    "lastName" : "Kirilich",
+    "email" : "KKirili@gmail.com",
+    "salary" : 2000.0,
+    "phoneNumber" : "+380993755999"
+  }, {
+    "id" : 0,
+    "firstName" : "Alex",
+    "lastName" : "Malinovsky",
+    "email" : "alexandr@gmail.com",
+    "salary" : 800.0,
+    "phoneNumber" : "+380951474136"
+  }, {
+    "id" : 0,
+    "firstName" : "IIvan",
+    "lastName" : "PastulaPastulaPastula",
+    "email" : "IPastula@gmail.com",
+    "salary" : 800.0,
+    "phoneNumber" : "+380664474331"
+  } ]
+}

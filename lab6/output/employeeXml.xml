@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee>
+    <email>alexandr@gmail.com</email>
+    <firstName>Alex</firstName>
+    <id>0</id>
+    <lastName>Malinovsky</lastName>
+    <phoneNumber>+380951474136</phoneNumber>
+    <post>JUNIOR</post>
+    <salary>800.0</salary>
+</Employee>
