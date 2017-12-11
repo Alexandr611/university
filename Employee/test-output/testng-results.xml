@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97" started-at="2017-10-30T07:40:28Z" finished-at="2017-10-30T07:40:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97" started-at="2017-10-30T07:40:28Z" finished-at="2017-10-30T07:40:28Z">
+      <class name="lab2.TestEmployee">
+        <test-method status="PASS" signature="updatePostTest(lab2.Employee, lab2.Employee$Post)[pri:0, instance:lab2.TestEmployee@6d78f375]" name="updatePostTest" duration-ms="15" started-at="2017-10-30T09:40:28Z" data-provider="updatePostProvider" finished-at="2017-10-30T09:40:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+First name: John
+Last name: Johnson
+Birthday: 1993-05-13
+Salary: 800.0
+Phone number: 587774632
+Post: MIDLE
+]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MIDLE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePostTest -->
+        <test-method status="PASS" signature="updatePostTest(lab2.Employee, lab2.Employee$Post)[pri:0, instance:lab2.TestEmployee@6d78f375]" name="updatePostTest" duration-ms="2" started-at="2017-10-30T09:40:28Z" data-provider="updatePostProvider" finished-at="2017-10-30T09:40:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+First name: Drake
+Last name: Standwood
+Birthday: 1993-05-13
+Salary: 1200.0
+Phone number: 587774632
+Post: SENIOR
+]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SENIOR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePostTest -->
+        <test-method status="PASS" signature="updatePostTest(lab2.Employee, lab2.Employee$Post)[pri:0, instance:lab2.TestEmployee@6d78f375]" name="updatePostTest" duration-ms="5" started-at="2017-10-30T09:40:28Z" data-provider="updatePostProvider" finished-at="2017-10-30T09:40:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+First name: July
+Last name: Morgan
+Birthday: 1993-05-13
+Salary: 2000.0
+Phone number: 587774632
+Post: TEAMLEAD
+]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TEAMLEAD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePostTest -->
+        <test-method status="PASS" signature="updateSalaryByPostTest(lab2.Employee, double)[pri:0, instance:lab2.TestEmployee@6d78f375]" name="updateSalaryByPostTest" duration-ms="2" started-at="2017-10-30T09:40:28Z" data-provider="updateSalaryByPostProvider" finished-at="2017-10-30T09:40:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+First name: John
+Last name: Johnson
+Birthday: 1998-05-13
+Salary: 800.0
+Phone number: 587774632
+Post: JUNIOR
+]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[800]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateSalaryByPostTest -->
+        <test-method status="PASS" signature="updateSalaryByPostTest(lab2.Employee, double)[pri:0, instance:lab2.TestEmployee@6d78f375]" name="updateSalaryByPostTest" duration-ms="2" started-at="2017-10-30T09:40:28Z" data-provider="updateSalaryByPostProvider" finished-at="2017-10-30T09:40:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+First name: Drake
+Last name: Standwood
+Birthday: 1993-03-03
+Salary: 2100.0
+Phone number: 587774632
+Post: SENIOR
+]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateSalaryByPostTest -->
+        <test-method status="PASS" signature="updateSalaryByPostTest(lab2.Employee, double)[pri:0, instance:lab2.TestEmployee@6d78f375]" name="updateSalaryByPostTest" duration-ms="3" started-at="2017-10-30T09:40:28Z" data-provider="updateSalaryByPostProvider" finished-at="2017-10-30T09:40:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+First name: Drake
+Last name: Standwood
+Birthday: 1993-03-03
+Salary: 1200.0
+Phone number: 587774632
+Post: MIDLE
+]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateSalaryByPostTest -->
+        <test-method status="PASS" signature="updateSalaryByPostTest(lab2.Employee, double)[pri:0, instance:lab2.TestEmployee@6d78f375]" name="updateSalaryByPostTest" duration-ms="2" started-at="2017-10-30T09:40:28Z" data-provider="updateSalaryByPostProvider" finished-at="2017-10-30T09:40:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+First name: July
+Last name: Morgan
+Birthday: 1988-06-22
+Salary: 2000.0
+Phone number: 587774632
+Post: SENIOR
+]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateSalaryByPostTest -->
+      </class> <!-- lab2.TestEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
