@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="366" started-at="2017-11-27T06:56:56Z" finished-at="2017-11-27T06:56:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="366" started-at="2017-11-27T06:56:56Z" finished-at="2017-11-27T06:56:56Z">
+      <class name="lab4.TestCompany">
+        <test-method status="PASS" signature="TestTreeSet()[pri:0, instance:lab4.TestCompany@548b7f67]" name="TestTreeSet" duration-ms="334" started-at="2017-11-27T08:56:56Z" finished-at="2017-11-27T08:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTreeSet -->
+      </class> <!-- lab4.TestCompany -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
